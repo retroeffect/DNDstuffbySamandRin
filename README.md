@@ -1,2 +1,2 @@
 # DNDstuffbySamandRin
-stuff to work on with sam
+Dnd scripts written by Sam and Rin
